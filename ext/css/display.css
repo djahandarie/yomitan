@@ -838,6 +838,7 @@ button.action-button:active {
     border-top: var(--thin-border-size) solid var(--light-border-color);
 }
 .entry-body {
+    font-size: 2em;
     clear: both;
 }
 .entry[data-definition-count='0'] .entry-body-section[data-section-type=definitions],
